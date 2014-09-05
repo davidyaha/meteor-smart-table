@@ -10,8 +10,8 @@ Package.on_use(function (api) {
     api.use('urigo:ngmeteor@0.2.0', 'client');
 
     // Client files.
-    api.add_files('lib/smart-table.debug.js',
-                  'init.js', 'client');
+    api.add_files(['lib/smart-table.debug.js',
+                  'init.js'], 'client');
 
 });
 
