@@ -13,8 +13,8 @@
       "1.0.0"
     ],
     [
-      "urigo:ngmeteor",
-      "0.2.0"
+      "urigo:angular-meteor",
+      "0.5.2"
     ]
   ],
   "pluginDependencies": [],
