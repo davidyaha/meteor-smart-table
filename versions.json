@@ -13,7 +13,7 @@
       "1.0.0"
     ],
     [
-      "urigo:angular-meteor",
+      "urigo:angular",
       "0.5.2"
     ]
   ],
