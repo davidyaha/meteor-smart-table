@@ -67,3 +67,45 @@ function(tableState, tableController){
 
 * ability to set filter function <code>st-set-filter</code>
 * ability to set sort function <code>st-set-sort</code>
+
+## version 1.4.4
+
+* patch for sync problem
+
+## version 1.4.5
+
+* merge #234, #218
+* fix #233 #237
+
+## version 1.4.6
+
+* evaluate sort predicate as late as possible
+* fix #262
+
+## version 1.4.7
+
+* fix #276
+
+## version 1.4.8
+
+* fix #281
+
+## version 1.4.9
+
+* fix #285
+
+## version 1.4.10
+
+* fix #284
+* fix #290
+
+## version 1.4.11
+
+* fix #296
+* add possibility to bind a callback when page changes
+
+## version 1.4.12
+
+* don't use pagination class twice
+* build improvement
+

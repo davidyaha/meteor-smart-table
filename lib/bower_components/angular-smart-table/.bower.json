@@ -1,12 +1,12 @@
 {
-  "name": "smart-table",
-  "version": "1.4.3",
+  "name": "angular-smart-table",
+  "version": "1.4.12-Modded",
   "homepage": "https://github.com/lorenzofox3/Smart-Table",
   "authors": [
     "lorenzofox3 <laurent34azerty@gmail.com>"
   ],
   "description": "table module for angular",
-  "main": "dist/smart-table.min.js",
+  "main": "dist/smart-table.js",
   "keywords": [
     "smart-table",
     "angular",
@@ -26,14 +26,14 @@
     "angular-mocks": "latest",
     "jquery": "latest"
   },
-  "_release": "1.4.3",
+  "_release": "1.4.12-Modded",
   "_resolution": {
     "type": "version",
-    "tag": "v1.4.3",
-    "commit": "41c9a9ae72344703cf594d6667a3967e7fdfc2c0"
+    "tag": "v1.4.12-Modded",
+    "commit": "ac875efdf0adca2bfa70b08d58b162f3b85e14a6"
   },
-  "_source": "git://github.com/lorenzofox3/Smart-Table.git",
-  "_target": "~1.4.3",
-  "_originalSource": "angular-smart-table",
+  "_source": "git://github.com/davidyaha/Smart-Table.git",
+  "_target": "1.4.12-Modded",
+  "_originalSource": "davidyaha/Smart-Table",
   "_direct": true
 }
