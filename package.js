@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Meteor package for smart-table: a table/grid for Angularjs",
-  version: "0.1.4",
+  version: "0.1.4_1",
   git: "https://github.com/davidyaha/meteor-smart-table.git"
 });
 
