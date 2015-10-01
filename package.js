@@ -7,7 +7,7 @@ Package.describe({
 Package.on_use(function (api) {
     api.versionsFrom('METEOR@0.9.0.1');
 
-    api.use('urigo:angular@0.6.0-alpha', 'client');
+    api.use('angular:angular@1.3.0', 'client');
 
     // Client files.
     api.add_files(['lib/bower_components/angular-smart-table/dist/smart-table.min.js'], 'client');
